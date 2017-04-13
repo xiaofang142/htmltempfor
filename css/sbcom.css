@@ -1,0 +1,21 @@
+﻿
+.sb-imglist {
+ padding-left:2.5px;
+ padding-right:2.5px;
+}
+
+.sb-imgitem {
+    width:100%;
+    background-color:white;
+    border:1px solid #ccc;
+    padding:2px;
+    margin-bottom:5px;
+}
+
+.sb-imgitem img{
+    width:100%;
+}
+
+.sb-loading {
+ text-align:center;
+}
